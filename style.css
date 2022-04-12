@@ -1,0 +1,39 @@
+.nu {
+    display: none;
+}
+
+.container {
+    margin-top: 10%;
+    width:90%;
+    margin-left:5%;
+}
+
+#titlu {
+    font-size: xx-large;
+    text-align: center;
+}
+
+#counter {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.text {
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(251, 149, 255);
+    width: 25%;
+    margin:0 auto;
+}
+
+#vesela:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#clicc:hover {
+    color: rgb(247, 68, 253);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
